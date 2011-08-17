@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.google.api.client</groupId>
+  <artifactId>google-api-client-xml</artifactId>
+  <version>1.2.1-alpha</version>
+  <versioning>
+    <versions>
+      <version>1.2.1-alpha</version>
+    </versions>
+    <lastUpdated>20110817151516</lastUpdated>
+  </versioning>
+</metadata>
